@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#grid{
+	display:grid;
+	height:220px;
+	grid-template-columns:repeat(3,1fr);
+	gap:10px;
+	grid-template-row:repeat(2,1fr);
+	align-text:center;
+	justify-content:center;
+}
+#row{
+	
+	border:1px solid grey;
+	background:lightgray
+	
+}
