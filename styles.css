@@ -5,12 +5,11 @@
 	grid-template-columns:repeat(3,1fr);
 	gap:10px;
 	grid-template-row:repeat(2,1fr);
-	align-text:center;
-	justify-content:center;
 }
 #row{
 	
-	border:1px solid grey;
-	background:lightgray
+	text-align:center;
+	border:1px solid #ccc;
+	background:#f2f2f2;
 	
 }
